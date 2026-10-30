@@ -1,6 +1,6 @@
 # AI Video and UGC Prompt Library
 
-Organized AI influencer, short-film, character-reference, and UGC advertisement prompts sourced from two Google Docs. Includes practical usage notes and a suggested workflow.
+Organized AI influencer, short-film, character-reference, and UGC advertisement prompts collected in this repository. Includes practical usage notes and a suggested workflow.
 
 ## Contents
 
@@ -38,12 +38,10 @@ Organized AI influencer, short-film, character-reference, and UGC advertisement 
 
 The prompts are templates, not guaranteed outputs. Image references, audio, JSON formatting, and maximum video length depend on the model used. Check generated text, hands, logos, product packaging, dialogue, and transitions. Use a person's likeness or voice only with appropriate permission. Avoid misleading product claims.
 
-Source prompts remain in their original order within each topic file. Introductory explanations and navigation were added for clarity. Em dashes were removed.
+Prompts are organized into topic-specific files. Introductory explanations and navigation were added for clarity. Em dashes were removed.
 
-## Original Google Docs
-
-- [How To Create AI UGC Ads (Full Tutorial) Part 2](https://docs.google.com/document/d/1RgXPPnZDVRpd6gduzfA2LjNzKQQubsoMhPTooiIvAOo/edit)
-- [All Prompts](https://docs.google.com/document/d/1FL97odSfOcwsTOFaMsRDzYmDhIoPOjTQt4wT61zM9GE/edit)
+- [How To Create AI UGC Ads (Full Tutorial) Part 2]()
+- [All Prompts]()
 
 ## Folder structure
 
