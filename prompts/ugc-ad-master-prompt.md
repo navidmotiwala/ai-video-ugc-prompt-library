@@ -2,9 +2,7 @@
 
 > **How to use:** This is a multi-part UGC advertisement prompt. Upload product and character references, specify language and audience, then request five connected short clips. Check each clip's duration, product details, dialogue, and continuity. The stated video duration is a target, not a guarantee.
 >
-> **Source:** [Original Google Doc tab](https://docs.google.com/document/d/1FL97odSfOcwsTOFaMsRDzYmDhIoPOjTQt4wT61zM9GE/edit?tab=t.0)
->
-> **Editorial note:** The source prompts are preserved in their original order with only light Markdown structure and em dash cleanup. Instructions above are added for clarity. Validate tool-specific features before relying on them.
+> **Editorial note:** Prompts are organized by topic with introductory usage guidance. Validate tool-specific features before relying on them.
 
 ## Source material
 
