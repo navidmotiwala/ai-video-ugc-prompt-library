@@ -2,9 +2,7 @@
 
 > **How to use:** Start with a reference image, then define the character, scene, camera, lighting, action, and continuity. Generate short scenes separately and edit them into one sequence.
 >
-> **Source:** [Original Google Doc tab](https://docs.google.com/document/d/1RgXPPnZDVRpd6gduzfA2LjNzKQQubsoMhPTooiIvAOo/edit?tab=t.f2svum91hb0s)
->
-> **Editorial note:** The source prompts are preserved in their original order with only light Markdown structure and em dash cleanup. Instructions above are added for clarity. Validate tool-specific features before relying on them.
+> **Editorial note:** Prompts are organized by topic with introductory usage guidance. Validate tool-specific features before relying on them.
 
 ## Source material
 
