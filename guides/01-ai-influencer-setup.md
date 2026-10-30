@@ -2,9 +2,7 @@
 
 > **How to use:** Use this guide to define a consistent virtual creator before generating UGC scenes. Fill in the character, setting, framing, and aspect ratio fields. Keep the same character description and reference image across shots.
 >
-> **Source:** [Original Google Doc tab](https://docs.google.com/document/d/1RgXPPnZDVRpd6gduzfA2LjNzKQQubsoMhPTooiIvAOo/edit?tab=t.0)
->
-> **Editorial note:** The source prompts are preserved in their original order with only light Markdown structure and em dash cleanup. Instructions above are added for clarity. Validate tool-specific features before relying on them.
+> **Editorial note:** Prompts are organized by topic with introductory usage guidance. Validate tool-specific features before relying on them.
 
 ## Source material
 
