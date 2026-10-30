@@ -2,9 +2,7 @@
 
 > **How to use:** These templates help create consistent character reference sheets and alternate views. Replace bracketed placeholders and check anatomy, clothing, and identity consistency before using outputs in a video.
 >
-> **Source:** [Original Google Doc tab](https://docs.google.com/document/d/1RgXPPnZDVRpd6gduzfA2LjNzKQQubsoMhPTooiIvAOo/edit?tab=t.jd05nlrm8iy0)
->
-> **Editorial note:** The source prompts are preserved in their original order with only light Markdown structure and em dash cleanup. Instructions above are added for clarity. Validate tool-specific features before relying on them.
+> **Editorial note:** Prompts are organized by topic with introductory usage guidance. Validate tool-specific features before relying on them.
 
 ## Source material
 
