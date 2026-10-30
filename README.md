@@ -4,14 +4,21 @@ Organized AI influencer, short-film, character-reference, and UGC advertisement 
 
 ## Contents
 
-| Topic | Description |
-| --- | --- |
-| [AI Influencer Setup](guides/01-ai-influencer-setup.md) | Define the character, camera, setting, and visual style |
-| [AI Short Film Framework](guides/02-ai-short-film-framework.md) | Plan scenes and maintain character continuity |
-| [Short Film Examples](examples/short-film-examples.md) | Sample characters and shot descriptions |
-| [Character Setup Prompts](prompts/character-setup.md) | Character sheets and multi-view references |
-| [UGC Ad Master Prompt](prompts/ugc-ad-master-prompt.md) | Five-part product video advertisement prompt |
-| [Additional Video Prompts](prompts/video-prompt-examples.md) | Skydiving, serum, and other example prompts |
+### Part 1: How To Create AI UGC Ads (Master Prompts)
+
+Start with ready-to-use advertisement and video generation prompts.
+
+- [UGC Ad Master Prompt](prompts/ugc-ad-master-prompt.md): Create a five-part product video advertisement.
+- [Additional Video Prompts](prompts/video-prompt-examples.md): Explore skydiving, serum, and other video prompt examples.
+
+### Part 2: How To Create AI UGC Ads (Full Tutorial) Part 2
+
+Follow the step-by-step guides and character creation examples.
+
+- [AI Influencer Setup](guides/01-ai-influencer-setup.md): Define the character, camera, setting, and visual style.
+- [AI Short Film Framework](guides/02-ai-short-film-framework.md): Plan scenes and maintain character continuity.
+- [Short Film Examples](examples/short-film-examples.md): Review sample characters and shot descriptions.
+- [Character Setup Prompts](prompts/character-setup.md): Create character sheets and multi-view references.
 
 ## How to use this library
 
