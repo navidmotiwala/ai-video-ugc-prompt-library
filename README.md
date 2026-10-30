@@ -38,10 +38,8 @@ Organized AI influencer, short-film, character-reference, and UGC advertisement 
 
 The prompts are templates, not guaranteed outputs. Image references, audio, JSON formatting, and maximum video length depend on the model used. Check generated text, hands, logos, product packaging, dialogue, and transitions. Use a person's likeness or voice only with appropriate permission. Avoid misleading product claims.
 
-Prompts are organized into topic-specific files. Introductory explanations and navigation were added for clarity. Em dashes were removed.
+The complete tutorial and prompt collection are organized across the six linked files in the Contents section above. All instructions and examples are available directly in this repository.
 
-- [How To Create AI UGC Ads (Full Tutorial) Part 2]()
-- [All Prompts]()
 
 ## Folder structure
 
