@@ -2,9 +2,7 @@
 
 > **How to use:** These examples demonstrate how to turn a character description into shot-level instructions. Replace names, scenes, and visual details for your own project.
 >
-> **Source:** [Original Google Doc tab](https://docs.google.com/document/d/1RgXPPnZDVRpd6gduzfA2LjNzKQQubsoMhPTooiIvAOo/edit?tab=t.y1f156sodpwk)
->
-> **Editorial note:** The source prompts are preserved in their original order with only light Markdown structure and em dash cleanup. Instructions above are added for clarity. Validate tool-specific features before relying on them.
+> **Editorial note:** Prompts are organized by topic with introductory usage guidance. Validate tool-specific features before relying on them.
 
 ## Source material
 
